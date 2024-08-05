@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Some changes
-=======
-Some changes
->>>>>>> 454933c40425826c19d7b7c777f7b471d4a53b4d
