@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-helloasdasas
-=======
-heasdllo
->>>>>>> my-feature-branch
-=======
-heasdllo
->>>>>>> my-feature-branch
-=======
-hell456o
->>>>>>> my-feature-branch
-=======
-hello
->>>>>>> my-feature-branch
+hell1232o
