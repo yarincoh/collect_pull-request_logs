@@ -26,8 +26,8 @@ git checkout "$FEATURE_BRANCH" || exit 1
 
 # Make changes (you can modify this part to suit your needs)
 echo "Making changes to text.txt..."
-echo "hdfghdhasdallo" > text.txt
-echo "newnewnew" > text1.txt
+echo "hdfghdshasdallo" > text.txt
+echo "newnewnasew" > text1.txt
 
 
 # Stage and commit changes
