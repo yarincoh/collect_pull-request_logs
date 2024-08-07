@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 heasdasdasdasdllo
 =======
 hello
@@ -14,4 +15,7 @@ hello
 >>>>>>> my-feature-branch
 =======
 hesdasdallo
+>>>>>>> my-feature-branch
+=======
+hessdsaddasdallo
 >>>>>>> my-feature-branch
